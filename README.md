@@ -11,7 +11,7 @@ A simple Q&A chatbot built with LangChain, Groq API, and Streamlit. Deployed on 
 
 ## Demo
 
-🔗 **Live Demo**: [Your Hugging Face Space URL]
+🔗 **Live Demo**: https://huggingface.co/spaces/Chama28228/langchain-groq-chatbot
 
 ## Setup
 
